@@ -9,6 +9,8 @@
 * 林俊杰
 * 华晨宇
 
+![林俊杰](1.jpg)
+
 学过的编程语言有`HTML`,`CSS`,`JavaScript`,我写一段给你看看吧~
 
 ```javascript
